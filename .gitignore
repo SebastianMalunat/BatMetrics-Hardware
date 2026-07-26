@@ -1,0 +1,19 @@
+# Arduino IDE build artifacts
+build/
+*.hex
+*.bin
+*.elf
+*.map
+
+# PlatformIO (if this project is ever migrated)
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+*.swp
