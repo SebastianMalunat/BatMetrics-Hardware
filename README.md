@@ -111,7 +111,7 @@ The characteristic supports both **read** (current value) and **notify** (pushed
 
 The electronics are housed in a 3D-printed, two-part enclosure (body + lid) that mounts directly onto a bat box via four screw tabs. The prototype housing is deliberately oversized to simplify assembly — a production version could be considerably smaller — and future iterations should add weatherproofing (e.g. a rubber seal) and dedicated mounts for the internal electronics, which are currently glued in place.
 
-Source files (`.3mf`) for both parts are in [`enclosure/`](enclosure/); we printed ours in PLA with heat-set inserts for the lid screws.
+Source files (`.3mf`) for both parts are in [`enclosure/`](enclosure/); we printed ours in PLA with heat-set inserts for the lid screws. The editable CAD model is available on [Onshape](https://cad.onshape.com/documents/98fc3c93e9cfa1a28dc60713/w/ab1f05b3e45a61a059b0592a/e/94952d4c4642f22f709c8d5e).
 
 ## Companion app
 
