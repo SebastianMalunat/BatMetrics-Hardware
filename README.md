@@ -129,7 +129,7 @@ The companion app has its own set of limitations (no backend, browser-local stor
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project — including the firmware, hardware design files, and documentation — is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
