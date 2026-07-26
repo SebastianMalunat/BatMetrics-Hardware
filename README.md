@@ -63,8 +63,11 @@ Full bill of materials, wiring tables, and step-by-step build instructions: **[d
 
 ### Flashing
 
-1. Clone this repository.
-2. Open `26-07-06_integration_v4.ino` in the Arduino IDE.
+1. Clone this repository:
+   ```
+   git clone https://github.com/SebastianMalunat/BatMetrics-Hardware.git
+   ```
+2. Open `batmetrics_firmware.ino` in the Arduino IDE.
 3. Select **Tools → Board → Arduino Nano ESP32**.
 4. Connect the Arduino via USB-C and select the matching **Port**.
 5. Verify/compile, then upload.
